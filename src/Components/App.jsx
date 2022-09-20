@@ -5,7 +5,7 @@ import Note from "./Note";
 import notes from "../notes";
 import CreateArea from "./CreateArea";
 
-
+//comment
 
 function App() {
 
